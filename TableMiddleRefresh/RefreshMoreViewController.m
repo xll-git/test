@@ -16,6 +16,7 @@
 @property (nonatomic, strong) BaseScrollView *scrollView;
 @property (nonatomic, strong) MoreHeaderView *headerView;
 @property (nonatomic, strong) UIView *backView;
+
 @property (nonatomic, strong) BaseToolTitleBarView *toolView;
 
 @property (nonatomic, strong) UITableView *oneTableView;

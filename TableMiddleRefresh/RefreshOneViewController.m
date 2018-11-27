@@ -30,6 +30,7 @@
         if (@available(iOS 11.0, *)) {
             _tableView.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
         }
+        
         [self.view addSubview:_tableView];
         //设置内容偏移
         _tableView.contentInset = UIEdgeInsetsMake(260, 0, 0, 0);

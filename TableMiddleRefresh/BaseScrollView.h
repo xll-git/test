@@ -12,6 +12,7 @@
 
 @interface BaseScrollView : UIScrollView
 
+
 @property (nonatomic, assign) CGPoint offset;
 
 @end
