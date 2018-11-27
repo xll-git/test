@@ -16,6 +16,7 @@
 
 @implementation RefreshTwoViewController
 
+
 #pragma mark - lazy load
 
 - (UITableView *)tableView {
